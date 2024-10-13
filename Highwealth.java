@@ -18,7 +18,7 @@ public class Highwealth {
         // Predefined 2D array for customers' wealth
         int[][] accounts = {
             {1, 2, 3}, // Customer 1's wealth in 3 banks
-            {3, 2, 45}, // Customer 2's wealth in 3 banks
+            {3, 2, 1}, // Customer 2's wealth in 3 banks
             {7, 1, 14}, // Customer 3's wealth in 3 banks
         };
 
