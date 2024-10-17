@@ -1,0 +1,56 @@
+
+
+### 1. **Bubble Sort**
+- **Best Case**: O(n) (when the array is already sorted)
+- **Average Case**: O(n²)
+- **Worst Case**: O(n²)
+
+### 2. **Selection Sort**
+- **Best Case**: O(n²)
+- **Average Case**: O(n²)
+- **Worst Case**: O(n²)
+
+### 3. **Insertion Sort**
+- **Best Case**: O(n) (when the array is already sorted)
+- **Average Case**: O(n²)
+- **Worst Case**: O(n²)
+
+### 4. **Merge Sort**
+- **Best Case**: O(n log n)
+- **Average Case**: O(n log n)
+- **Worst Case**: O(n log n)
+
+### 5. **Quick Sort**
+- **Best Case**: O(n log n)
+- **Average Case**: O(n log n)
+- **Worst Case**: O(n²) (occurs when the pivot selection is poor)
+
+### 6. **Heap Sort**
+- **Best Case**: O(n log n)
+- **Average Case**: O(n log n)
+- **Worst Case**: O(n log n)
+
+### 7. **Counting Sort**
+- **Best Case**: O(n + k) (where `k` is the range of input values)
+- **Average Case**: O(n + k)
+- **Worst Case**: O(n + k)
+
+### 8. **Radix Sort**
+- **Best Case**: O(nk) (where `k` is the number of digits in the maximum number)
+- **Average Case**: O(nk)
+- **Worst Case**: O(nk)
+
+### 9. **Bucket Sort**
+- **Best Case**: O(n + k) (if input is uniformly distributed)
+- **Average Case**: O(n + k)
+- **Worst Case**: O(n²) (when elements are unevenly distributed in buckets)
+
+### 10. **Shell Sort**
+- **Best Case**: O(n log n) (depends on the gap sequence)
+- **Average Case**: O(n^3/2) to O(n log² n) (depends on gap sequence)
+- **Worst Case**: O(n²)
+
+### Summary:
+- **Efficient in practice**: Quick Sort, Merge Sort, Heap Sort
+- **Stable sort (preserves order of equal elements)**: Merge Sort, Insertion Sort, Counting Sort, Radix Sort
+- **In-place algorithms**: Quick Sort, Bubble Sort, Selection Sort, Insertion Sort, Heap Sort
