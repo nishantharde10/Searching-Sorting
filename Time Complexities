@@ -1,11 +1,11 @@
 
 
-### 1. **Bubble Sort**
+ 1. Bubble Sort
 - **Best Case**: O(n) (when the array is already sorted)
 - **Average Case**: O(n²)
 - **Worst Case**: O(n²)
 
-### 2. **Selection Sort**
+ 2. Selection Sort
 - **Best Case**: O(n²)
 - **Average Case**: O(n²)
 - **Worst Case**: O(n²)
